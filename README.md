@@ -39,7 +39,7 @@ Reward ~471, 3/3 laps at 100% completion, zero off-track events, zero resets. Cl
 
 | v3 — 1 off-track event | v4 — clean laps |
 |---|---|
-| ![v3](images/v3_evaluation.png) | ![v4](images/v4_evaluation.png) |
+| ![v3](images/v3_evaluation.PNG) | ![v4](images/v4_evaluation.png) |
 
 ## Structure
 - `reward_functions/` — versioned reward function code
