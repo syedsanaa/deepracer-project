@@ -42,6 +42,6 @@ Reward ~471, 3/3 laps at 100% completion, zero off-track events, zero resets. Cl
 | ![v3](images/v3_evaluation.PNG) | ![v4](images/v4_evaluation.png) |
 
 ## Structure
-- `reward_functions/` — versioned reward function code
-- `configs/` — versioned action space configs
-- `results.md` — raw metrics per version
+- `reward_functions/` — versioned reward function code (v1–v4)
+- `configs/` — v4's modified action space (v1–v3 used the default)
+- `images/` — evaluation plots
